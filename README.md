@@ -3,10 +3,14 @@ This Iterface maps Touch controller Buttons,A xis, and Motion Gestures to a Vige
 
 This project relies on multiple external applications listed below:
 
-AutoOculusTouch:  https://github.com/rajetic/auto_oculus_touch <b />
+AutoOculusTouch:  https://github.com/rajetic/auto_oculus_touch
+
 Bhaptics Python SDK: https://github.com/bhaptics/tact-python
+
 ViGEmBus: https://github.com/nefarius/ViGEmBus/releases
+
 AHK-ViGEm-Bus: https://github.com/evilC/AHK-ViGEm-Bus
+
 Autohotkey 1.1: https://www.autohotkey.com/
 
 Future features: Touch controller positional gesture mapping. 
