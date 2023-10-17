@@ -14,7 +14,9 @@ AHK-ViGEm-Bus: https://github.com/evilC/AHK-ViGEm-Bus
 Autohotkey 1.1: https://www.autohotkey.com/
 
 
-Future features: Touch controller positional gesture mapping. 
+Upcoming features: 
+
+Touch controller positional gesture mapping. 
 
 Basic Bhaptics integration using python.  
 
